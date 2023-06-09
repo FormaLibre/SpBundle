@@ -34,5 +34,11 @@
         "bin-dir": "bin"
     },
     "prefer-stable": true,
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:FormaLibre/SymfonyBridgeBundle.git"
+        }
+    ]
 }
