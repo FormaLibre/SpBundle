@@ -1,5 +1,5 @@
 {
-    "name": "lightsaml/sp-bundle",
+    "name": "claroline/lightsaml-bundle",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Light SAML2 SP Symfony Bundle",
@@ -22,7 +22,7 @@
         "php": ">=7.2",
         "symfony/framework-bundle": "~5.0|~6.0",
         "symfony/security-bundle": "~5.0|~6.0",
-        "lightsaml/symfony-bridge": "2.x-dev"
+        "lightsaml/symfony-bridge": "~2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~8.4|~9.5",
